@@ -1,8 +1,8 @@
 ![Banner](/resources/Banner.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=50&pause=4000&color=00FA8A&vCenter=true&width=650&lines=Bienvenido+a+BioTrack)](https://github.com/1ASI0729-2610-10203-NexTech)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=50&pause=4000&color=00E37D&vCenter=true&width=650&lines=Bienvenido+a+BioTrack)](https://github.com/1ASI0729-2610-10203-NexTech)
 
-[![Documentación](https://img.shields.io/badge/Documentaci%C3%B3n-37474F?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/1ASI0729-2610-10203-NexTech/Project-Report)
+[![Documentación](https://img.shields.io/badge/Documentaci%C3%B3n-00E37D?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/1ASI0729-2610-10203-NexTech/Project-Report)
 
 ¡Bienvenido a la página oficial de **BioTrack** en GitHub! Somos un equipo de ingeniería comprometido con la innovación en el sector HealthTech. 
 
